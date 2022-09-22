@@ -3,7 +3,4 @@ img/*Thumbs.db
 tmp/
 *.old
 *.backup
-<<<<<<< HEAD
-
-=======
->>>>>>> cf0278350daf4ee48d434616ba6de867b4343d3d
+*.DS_Store
